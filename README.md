@@ -4,7 +4,7 @@ Visual studio code extension snippets is based on the documentation of [Lorem Pi
 
 ## Usage
 
-To use the snippets, open a HTML file, and start typing with `picsum-photos-`.
+To use the snippets, open a HTML or CSS file, and start typing with `picsum-photos-`.
 
 ## Quick Start
 

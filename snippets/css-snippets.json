@@ -2,133 +2,133 @@
     "Lorem Picsum with specific image ID": {
         "prefix": "lorem-picsum-photos",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}\")"
+            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}\");"
         ],
         "description": "Get a image with specific ID, width and height."
     },
     "Lorem Picsum with grayscale effect": {
         "prefix": "lorem-picsum-photos-grayscale",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale\")"
+            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale\");"
         ],
         "description": "Get a image with grayscale effect"
     },
     "Lorem Picsum with blur effect": {
         "prefix": "lorem-picsum-photos-blur",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?blur=${4:5}\")"
+            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?blur=${4:5}\");"
         ],
         "description": "Get a image with blur effect"
     },
     "Lorem Picsum with grayscale and blur effect": {
         "prefix": "lorem-picsum-photos-grayscale-blur",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale&blur=5\")"
+            "background-image: url(\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale&blur=5\");"
         ],
         "description": "Get a image with grayscale and blur effect"
     },
     "Lorem Picsum mountain-1 image": {
         "prefix": "lorem-picsum-photos-mountain-1",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/684/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/684/${1:600}/${2:400}\");"
         ],
         "description": "Get a mountain image"
     },
     "Lorem Picsum mountain-2 image": {
         "prefix": "lorem-picsum-photos-mountain-2",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/231/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/231/${1:600}/${2:400}\");"
         ],
         "description": "Get a mountain image"
     },
     "Lorem Picsum mountain-3 image": {
         "prefix": "lorem-picsum-photos-mountain-3",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/235/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/235/${1:600}/${2:400}\");"
         ],
         "description": "Get a mountain image"
     },
     "Lorem Picsum bear image": {
         "prefix": "lorem-picsum-photos-bear",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1020/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1020/${1:600}/${2:400}\");"
         ],
         "description": "Get a bear image"
     },
     "Lorem Picsum adorable dog image": {
         "prefix": "lorem-picsum-photos-adorable-dog",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1025/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1025/${1:600}/${2:400}\");"
         ],
         "description": "Get a adorable dog image"
     },
     "Lorem Picsum peaceful lake image": {
         "prefix": "lorem-picsum-photos-peaceful-lake",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1038/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1038/${1:600}/${2:400}\");"
         ],
         "description": "Get a peaceful lake image"
     },
     "Lorem Picsum city view image": {
         "prefix": "lorem-picsum-photos-city-view",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1029/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1029/${1:600}/${2:400}\");"
         ],
         "description": "Get a city view image"
     },
     "Lorem Picsum escalator image": {
         "prefix": "lorem-picsum-photos-escalator",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1033/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1033/${1:600}/${2:400}\");"
         ],
         "description": "Get a escalator image"
     },
     "Lorem Picsum sports venue image": {
         "prefix": "lorem-picsum-photos-sport-venue",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1058/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1058/${1:600}/${2:400}\");"
         ],
         "description": "Get a sports venue image"
     },
     "Lorem Picsum city sunset image": {
         "prefix": "lorem-picsum-photos-city-sunset",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1067/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1067/${1:600}/${2:400}\");"
         ],
         "description": "Get a city sunset image"
     },
     "Lorem Picsum vase image": {
         "prefix": "lorem-picsum-photos-vase",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1068/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1068/${1:600}/${2:400}\");"
         ],
         "description": "Get a vase image"
     },
     "Lorem Picsum wheat image": {
         "prefix": "lorem-picsum-photos-wheat",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/112/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/112/${1:600}/${2:400}\");"
         ],
         "description": "Get a wheat image"
     },
     "Lorem Picsum traveler image": {
         "prefix": "lorem-picsum-photos-traveler",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/177/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/177/${1:600}/${2:400}\");"
         ],
         "description": "Get a traveler image"
     },
     "Lorem Picsum building-1 image": {
         "prefix": "lorem-picsum-photos-building-1",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1076/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1076/${1:600}/${2:400}\");"
         ],
         "description": "Get a building image"
     },
     "Lorem Picsum building-2 image": {
         "prefix": "lorem-picsum-photos-building-2",
         "body": [
-            "background-image: url(\"https://picsum.photos/id/1081/${1:600}/${2:400}\")"
+            "background-image: url(\"https://picsum.photos/id/1081/${1:600}/${2:400}\");"
         ],
         "description": "Get a building image"
     }
