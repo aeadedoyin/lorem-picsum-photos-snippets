@@ -1,0 +1,26 @@
+{
+    "name": "lorem-picsum-photos-snippets",
+    "displayName": "Lorem Picsum photos snippets",
+    "description": "Visual studio code snippets extention for Lorem Picsum photos.",
+    "version": "1.0.0",
+    "publisher": "huang-an-sheng",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andy19910102/line-bot-sdk-python-snippets"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html-snippets.json"
+            }
+        ]
+    }
+}
