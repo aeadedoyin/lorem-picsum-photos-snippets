@@ -6,6 +6,20 @@ Visual studio code extension snippets is based on the documentation of [Lorem Pi
 
 To use the snippets, open a HTML file, and start typing with `picsum-photos-`.
 
+## Quick Start
+
+![](https://i.imgur.com/4kJ4Bw4.gif)
+Type `lorem-picsum-photos` to get an image.
+
+![](https://i.imgur.com/2pKJH6I.gif)
+Type `lorem-picsum-photos-grayscale` to get an image with grayscale effect.
+
+![](https://i.imgur.com/JO70kl1.gif)
+Type `lorem-picsum-photos-blur` to get an image with blur effect.
+
+![](https://i.imgur.com/VBwa0l1.gif)
+Type `lorem-picsum-adorable-dog` to get an adorable dog image.
+
 ## Documentation
 
 Trigger | Description
