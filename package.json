@@ -2,7 +2,7 @@
     "name": "lorem-picsum-photos-snippets",
     "displayName": "Lorem Picsum photos snippets",
     "description": "Visual studio code snippets extention for Lorem Picsum photos.",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "publisher": "huang-an-sheng",
     "author": {
         "name": "Huang An Sheng"

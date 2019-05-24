@@ -25,6 +25,7 @@ Type `picsum-adorable-dog` to get an adorable dog image.
 Trigger | Description
 --- | ---
 picsum | Get a image with specific ID, width and height.
+picsum-square | Get a square image
 picsum-grayscale | Get a image with grayscale effect
 picsum-blur | Get a image with blur effect
 picsum-grayscale-blur | Get a image with grayscale and blur effect
@@ -52,18 +53,21 @@ Type `picsum-people-${num}`
 
 for example: `picsum-people-5`
 
-#### Mountain images
-
-Type `picsum-mountain-${num}`
-
-for example: `picsum-mountain-3`
-
+![](https://i.imgur.com/wCgVSWB.gif)
 
 #### Building images
 
 Type `picsum-building-${num}`
 
 for example: `picsum-building-3`
+
+![](https://i.imgur.com/eVkWqsb.gif)
+
+#### Mountain images
+
+Type `picsum-mountain-${num}`
+
+for example: `picsum-mountain-1`
 
 #### Road images
 
