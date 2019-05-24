@@ -47,36 +47,50 @@ picsum-wheat | Get a wheat image
 picsum-traveler | Get a traveler image
 picsum-valley | Get a valley image
 
-#### People images
+#### People
 
 Type `picsum-people-${num}`
 
 for example: `picsum-people-5`
 
-![](https://i.imgur.com/wCgVSWB.gif)
+![](https://i.imgur.com/gU8zAuz.gif)
 
-#### Building images
+#### Building
 
 Type `picsum-building-${num}`
 
 for example: `picsum-building-3`
 
-![](https://i.imgur.com/eVkWqsb.gif)
+![](https://i.imgur.com/esELlYD.gif)
 
-#### Mountain images
+#### Mountain
 
 Type `picsum-mountain-${num}`
 
 for example: `picsum-mountain-1`
 
-#### Road images
+![](https://i.imgur.com/rY2JdBM.gif)
+
+#### Road
 
 Type `picsum-road-${num}`
 
 for example: `picsum-road-4`
 
-#### Vehicle images
+![](https://i.imgur.com/M0eoufS.gif)
+
+#### Vehicle
 
 Type `picsum-vehicle-${num}`
 
 for example: `picsum-vehicle-2`
+
+![](https://i.imgur.com/vj9amYB.gif)
+
+#### Boat
+
+Type `picsum-boat-${num}`
+
+for example: `picsum-boat-1`
+
+![](https://i.imgur.com/qKBwqjD.gif)
