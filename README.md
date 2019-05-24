@@ -28,6 +28,7 @@ picsum | Get a image with specific ID, width and height.
 picsum-grayscale | Get a image with grayscale effect
 picsum-blur | Get a image with blur effect
 picsum-grayscale-blur | Get a image with grayscale and blur effect
+picsum-facebook-og-image | Get meta tag with [facebook open graph image size(1200x630px)](https://www.h3xed.com/web-and-internet/how-to-use-og-image-meta-tag-facebook-reddit)
 
 ### Get specific image
 

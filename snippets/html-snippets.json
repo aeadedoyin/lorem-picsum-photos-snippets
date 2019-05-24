@@ -2,28 +2,35 @@
     "Lorem Picsum with specific image ID": {
         "prefix": "picsum",
         "body": [
-            "<img src=\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}\" alt=\"\">"
+            "<img src=\"https://picsum.photos/id/${1:684}/${2:600}/${3:400}\" alt=\"\">"
         ],
         "description": "Get a image with specific ID, width and height."
+    },
+    "Lorem Picsum with Facebook og-image size": {
+        "prefix": "picsum-facebook-og-image",
+        "body": [
+            "<meta property=\"og:image\" content=\"https://picsum.photos/id/${1:684}/1200/630\" />"
+        ],
+        "description": "Get a meta tag with image in Facebook Open Graph size"
     },
     "Lorem Picsum with grayscale effect": {
         "prefix": "picsum-grayscale",
         "body": [
-            "<img src=\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale\" alt=\"\">"
+            "<img src=\"https://picsum.photos/id/${1:684}/${2:600}/${3:400}?grayscale\" alt=\"\">"
         ],
         "description": "Get a image with grayscale effect"
     },
     "Lorem Picsum with blur effect": {
         "prefix": "picsum-blur",
         "body": [
-            "<img src=\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?blur=${4:5}\" alt=\"\">"
+            "<img src=\"https://picsum.photos/id/${1:684}/${2:600}/${3:400}?blur=${4:5}\" alt=\"\">"
         ],
         "description": "Get a image with blur effect"
     },
     "Lorem Picsum with grayscale and blur effect": {
         "prefix": "picsum-grayscale-blur",
         "body": [
-            "<img src=\"https://picsum.photos/id/${1:684}/${2:1200}/${3:600}?grayscale&blur=5\" alt=\"\">"
+            "<img src=\"https://picsum.photos/id/${1:684}/${2:600}/${3:400}?grayscale&blur=5\" alt=\"\">"
         ],
         "description": "Get a image with grayscale and blur effect"
     },
