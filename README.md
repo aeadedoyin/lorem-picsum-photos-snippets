@@ -45,22 +45,34 @@ picsum-vase | Get a vase image
 picsum-wheat | Get a wheat image
 picsum-traveler | Get a traveler image
 picsum-valley | Get a valley image
-picsum-people-1 | Get a people image
-picsum-people-2 | Get a people image
-picsum-people-3 | Get a people image
-picsum-people-4 | Get a people image
-picsum-people-5 | Get a people image
-picsum-people-6 | Get a people image
-picsum-mountain-1 | Get a mountain image
-picsum-mountain-2 | Get a mountain image
-picsum-mountain-3 | Get a mountain image
-picsum-mountain-4 | Get a mountain image
-picsum-mountain-5 | Get a mountain image
-picsum-building-1 | Get a building image
-picsum-building-2 | Get a building image
-picsum-road-1 | Get a road image
-picsum-road-2 | Get a road image
-picsum-road-3 | Get a road image
-picsum-road-4 | Get a road image
-picsum-road-5 | Get a road image
-picsum-road-6 | Get a road image
+
+#### People images
+
+Type `picsum-people-${num}`
+
+for example: `picsum-people-5`
+
+#### Mountain images
+
+Type `picsum-mountain-${num}`
+
+for example: `picsum-mountain-3`
+
+
+#### Building images
+
+Type `picsum-building-${num}`
+
+for example: `picsum-building-3`
+
+#### Road images
+
+Type `picsum-road-${num}`
+
+for example: `picsum-road-4`
+
+#### Vehicle images
+
+Type `picsum-vehicle-${num}`
+
+for example: `picsum-vehicle-2`
