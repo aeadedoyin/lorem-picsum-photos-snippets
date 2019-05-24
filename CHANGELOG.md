@@ -1,3 +1,6 @@
+## [1.0.6] (24 May 2019)
+- Update all trigger to a shorter name with prefix `picsum-`
+
 ## [1.0.1] (22 May 2019)
 - Added support for CSS background image
 
