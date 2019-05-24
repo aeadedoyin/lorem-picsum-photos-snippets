@@ -8,16 +8,16 @@ To use the snippets, open a HTML or CSS file, and start typing with `lorem-picsu
 
 ## Quick Start
 
-![](https://i.imgur.com/4kJ4Bw4.gif)
+![](https://i.imgur.com/ncYcqdC.gif)
 Type `picsum` to get an image.
 
-![](https://i.imgur.com/2pKJH6I.gif)
+![](https://i.imgur.com/4XZJFUf.gif)
 Type `picsum-grayscale` to get an image with grayscale effect.
 
-![](https://i.imgur.com/JO70kl1.gif)
+![](https://i.imgur.com/4Q8H5bO.gif)
 Type `picsum-blur` to get an image with blur effect.
 
-![](https://i.imgur.com/VBwa0l1.gif)
+![](https://i.imgur.com/wqPoiLG.gif)
 Type `picsum-adorable-dog` to get an adorable dog image.
 
 ## Documentation
