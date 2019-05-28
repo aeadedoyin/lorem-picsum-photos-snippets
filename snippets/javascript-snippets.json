@@ -13,5 +13,19 @@
             "picsumXHR.send();"
         ],
         "description": "Get image list using XHRHttpRequest"
+    },
+    "Get image list using Axios HTTP request": {
+        "prefix": "picsum.axiosHttpRequest",
+        "body": [
+            "axios.get('https://picsum.photos/v2/list?page=${1:1}&limit=${2:50}')",
+            "    .then(function (response) {",
+            "        var picsumImages = response.data;",
+            "        // Handling the images here by using picsumImages\"",
+            "    })",
+            "    .catch(function (err) {",
+            "        // Error happened",
+            "    });"
+        ],
+        "description": "Get image list using Axios request"
     }
 }

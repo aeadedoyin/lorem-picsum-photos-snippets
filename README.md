@@ -2,8 +2,9 @@
 
 Visual studio code snippets extension for [Lorem Picsum](https://picsum.photos/).
 
-- Quick way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files.
-- Support snippets for CSS background image with Lorem Picsum photos in CSS file.
+- Quick way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files by typing `picsum`.
+- Support snippets for CSS background image with Lorem Picsum photos in CSS file by typing `picsum`.
+- Support snippets for requesting image list of picsum photos in JavaScript file by typing `picsum.xhrHttpRequest` or `picsum.axiosHttpRequest`.
 
 ## Usage
 
@@ -23,7 +24,7 @@ Type `picsum-blur` to get an image with blur effect.
 ![](https://i.imgur.com/wqPoiLG.gif)
 Type `picsum-adorable-dog` to get an adorable dog image.
 
-## Documentation
+## Features
 
 Trigger | Description
 --- | ---
@@ -97,3 +98,21 @@ Type `picsum-boat-${num}`
 for example: `picsum-boat-1`
 
 ![](https://i.imgur.com/qKBwqjD.gif)
+
+### Image list
+
+### XHR HTTP request
+
+Get a XHR HTTP Request for an image list in JavaScript file.
+
+1. Type `picsum.xhrHttpRequest`.
+![](https://i.imgur.com/hpCC2fd.png)
+
+2. Then you will get a XHR HTTP request flow for an image list from Lorem Picsum.
+![](https://i.imgur.com/U1qHRRG.png)
+
+### Axios request
+
+1. Type `picsum.axiosHttpRequest`.
+
+2. Then you will get a axios HTTP request flow for getting an image list from Lorem Picsum.
