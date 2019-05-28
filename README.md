@@ -114,5 +114,7 @@ Get a XHR HTTP Request for an image list in JavaScript file.
 ### Axios request
 
 1. Type `picsum.axiosHttpRequest`.
+![](https://i.imgur.com/cdYcHKt.png)
 
 2. Then you will get a axios HTTP request flow for getting an image list from Lorem Picsum.
+![](https://i.imgur.com/A06mn8w.png)

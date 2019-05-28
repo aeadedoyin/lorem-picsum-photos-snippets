@@ -1,7 +1,10 @@
 
+## [1.0.20] (28 May 2019)
+- Add Lorem Picsum image list API requesting snippets for JavaScript files.
+
 ## [1.0.9] (24 May 2019)
 - Add vehicle image serie and more image for building and people series.
-- Add Support for vue and scss file.
+- Add support for vue and scss file.
 - Add square image by typing `picsum-square`.
 
 ## [1.0.7] (24 May 2019)
