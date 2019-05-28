@@ -97,6 +97,13 @@
         ],
         "description": "Get a mountain image"
     },
+    "Lorem Picsum mountain-9 image": {
+        "prefix": "picsum-mountain-9",
+        "body": [
+            "<img src=\"https://picsum.photos/id/327/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a mountain image"
+    },
     "Lorem Picsum valley image": {
         "prefix": "picsum-valley",
         "body": [
@@ -117,6 +124,13 @@
             "<img src=\"https://picsum.photos/id/1025/${1:600}/${2:400}\" alt=\"\">"
         ],
         "description": "Get a adorable dog image"
+    },
+    "Lorem Picsum black dog image": {
+        "prefix": "picsum-black-dog",
+        "body": [
+            "<img src=\"https://picsum.photos/id/237/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a black dog image"
     },
     "Lorem Picsum peaceful lake image": {
         "prefix": "picsum-peaceful-lake",
@@ -173,6 +187,62 @@
             "<img src=\"https://picsum.photos/id/177/${1:600}/${2:400}\" alt=\"\">"
         ],
         "description": "Get a traveler image"
+    },
+    "Lorem Picsum deer image": {
+        "prefix": "picsum-deer",
+        "body": [
+            "<img src=\"https://picsum.photos/id/1003/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a deer image"
+    },
+    "Lorem Picsum castle image": {
+        "prefix": "picsum-castle",
+        "body": [
+            "<img src=\"https://picsum.photos/id/1040/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a castle image"
+    },
+    "Lorem Picsum strawberry image": {
+        "prefix": "picsum-strawberry",
+        "body": [
+            "<img src=\"https://picsum.photos/id/1080/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a strawberry image"
+    },
+    "Lorem Picsum hot air ballon-1 image": {
+        "prefix": "picsum-hot-air-balloon-1",
+        "body": [
+            "<img src=\"https://picsum.photos/id/174/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a hot air balloon image"
+    },
+    "Lorem Picsum hot air ballon-2 image": {
+        "prefix": "picsum-hot-air-balloon-2",
+        "body": [
+            "<img src=\"https://picsum.photos/id/401/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a hot air balloon image"
+    },
+    "Lorem Picsum dew image": {
+        "prefix": "picsum-dew",
+        "body": [
+            "<img src=\"https://picsum.photos/id/189/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a dew image"
+    },
+    "Lorem Picsum camera image": {
+        "prefix": "picsum-camera",
+        "body": [
+            "<img src=\"https://picsum.photos/id/250/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a camera image"
+    },
+    "Lorem Picsum Eiffel Tower image": {
+        "prefix": "picsum-eiffel-tower",
+        "body": [
+            "<img src=\"https://picsum.photos/id/318/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a Eiffel Tower image"
     },
     "Lorem Picsum building-1 image": {
         "prefix": "picsum-building-1",
@@ -388,6 +458,13 @@
         "prefix": "picsum-boat-2",
         "body": [
             "<img src=\"https://picsum.photos/id/642/${1:600}/${2:400}\" alt=\"\">"
+        ],
+        "description": "Get a boat image"
+    },
+    "Lorem Picsum boat-3 image": {
+        "prefix": "picsum-boat-3",
+        "body": [
+            "<img src=\"https://picsum.photos/id/211/${1:600}/${2:400}\" alt=\"\">"
         ],
         "description": "Get a boat image"
     },

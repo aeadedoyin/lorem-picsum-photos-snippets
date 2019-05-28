@@ -2,7 +2,7 @@
 
 Visual studio code snippets extension for [Lorem Picsum](https://picsum.photos/).
 
-- Quick way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files by typing `picsum`.
+- Quicker way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files by typing `picsum`.
 - Support snippets for CSS background image with Lorem Picsum photos in CSS file by typing `picsum`.
 - Support snippets for requesting image list of picsum photos in JavaScript file by typing `picsum.xhrHttpRequest` or `picsum.axiosHttpRequest`.
 
@@ -21,9 +21,6 @@ Type `picsum-grayscale` to get an image with grayscale effect.
 ![](https://i.imgur.com/4Q8H5bO.gif)
 Type `picsum-blur` to get an image with blur effect.
 
-![](https://i.imgur.com/wqPoiLG.gif)
-Type `picsum-adorable-dog` to get an adorable dog image.
-
 ## Features
 
 Trigger | Description
@@ -37,19 +34,10 @@ picsum-facebook-og-image | Get meta tag with [facebook open graph image size(120
 
 ### Get specific image
 
-Trigger | Description
---- | ---
-picsum-bear | Get a bear image
-picsum-adorable-dog | Get a adorable dog image
-picsum-peaceful-lake | Get a peaceful lake image
-picsum-city-view | Get a city view image
-picsum-escalator | Get a escalator image
-picsum-sport-venue | Get a sports venue image
-picsum-city-sunset | Get a city sunset image
-picsum-vase | Get a vase image
-picsum-wheat | Get a wheat image
-picsum-traveler | Get a traveler image
-picsum-valley | Get a valley image
+![](https://i.imgur.com/wqPoiLG.gif)
+Type `picsum-adorable-dog` to get an adorable dog image.
+
+More snippets for getting a specific image, such as: `picsum-black-dog`, `picsum-bear`, `picsum-adorable-dog`, `picsum-peaceful-lake`, `picsum-city-view`, `picsum-escalator`, `picsum-sport-venue`, `picsum-city-sunset`, `picsum-vase`, `picsum-wheat`, `picsum-traveler`, `picsum-valley`, `picsum-deer`, `picsum-castle`, `picsum-strawberry`, `picsum-hot-air-balloon` , `picsum-dew`, `picsum-camera` and `picsum-eiffel-tower`.
 
 #### People
 
