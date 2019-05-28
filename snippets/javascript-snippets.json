@@ -29,7 +29,7 @@
         "description": "Get image list using Axios request"
     },
     "Get image list using jQuery Ajax request": {
-        "prefix": "picsum.axiosAjax",
+        "prefix": "picsum.ajaxRequest",
         "body": [
             "$.ajax({",
             "    url: 'https://picsum.photos/v2/list?page=${1:1}&limit=${2:50}'",
