@@ -1,10 +1,13 @@
 # Lorem Picsum photos snippets
 
-Visual studio code extension snippets is based on the documentation of [Lorem Picsum](https://picsum.photos/)
+Visual studio code snippets extension for [Lorem Picsum](https://picsum.photos/).
+
+- Quick way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files.
+- Support snippets for CSS background image with Lorem Picsum photos in CSS file.
 
 ## Usage
 
-To use the snippets, open a HTML or CSS file, and start typing with `lorem-picsum`.
+To use the snippets, open a HTML or CSS file, and start typing with `picsum`.
 
 ## Quick Start
 
