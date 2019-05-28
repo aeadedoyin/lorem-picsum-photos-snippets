@@ -4,7 +4,7 @@ Visual studio code snippets extension for [Lorem Picsum](https://picsum.photos/)
 
 - Quicker way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files by typing `picsum`.
 - Support snippets for CSS background image with Lorem Picsum photos in CSS file by typing `picsum`.
-- Support snippets for requesting image list of picsum photos in JavaScript file by typing `picsum.xhrHttpRequest` or `picsum.axiosHttpRequest`.
+- Support snippets for requesting image list of picsum photos in JavaScript file by typing `picsum.xhrHttpRequest`, `picsum.axiosHttpRequest` or `picsum.axiosAjax`.
 
 ## Usage
 

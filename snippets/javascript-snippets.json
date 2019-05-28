@@ -20,12 +20,24 @@
             "axios.get('https://picsum.photos/v2/list?page=${1:1}&limit=${2:50}')",
             "    .then(function (response) {",
             "        var picsumImages = response.data;",
-            "        // Handling the images here by using picsumImages\"",
+            "        // Handling the images here by using picsumImages",
             "    })",
             "    .catch(function (err) {",
             "        // Error happened",
             "    });"
         ],
         "description": "Get image list using Axios request"
+    },
+    "Get image list using jQuery Ajax request": {
+        "prefix": "picsum.axiosAjax",
+        "body": [
+            "$.ajax({",
+            "    url: 'https://picsum.photos/v2/list?page=${1:1}&limit=${2:50}'",
+            "})",
+            "    .done(function (picsumImages) {",
+            "        // Handling the images here by using picsumImages",
+            "    });"
+        ],
+        "description": "Get image list using jQuery Ajax request"
     }
 }
