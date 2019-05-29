@@ -1,5 +1,8 @@
 # Lorem Picsum photos snippets
 
+![](https://img.shields.io/badge/license-MIT-important.svg)
+![](https://img.shields.io/badge/Visual%20Studio%20Marketplace-v1.0.26-success.svg)
+
 Visual studio code snippets extension for [Lorem Picsum](https://picsum.photos/).
 
 - Quicker way to create an `img` tag with `src` attribute target to a Lorem Picsum photo in HTML files by typing `picsum`.
