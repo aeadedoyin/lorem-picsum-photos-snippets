@@ -1,4 +1,4 @@
-# Lorem Picsum photos snippets
+# Lorem Picsum Photos Snippets
 
 ![](https://img.shields.io/badge/license-MIT-important.svg)
 ![](https://img.shields.io/badge/Visual%20Studio%20Marketplace-v1.0.26-success.svg)

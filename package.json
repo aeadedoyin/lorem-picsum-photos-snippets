@@ -1,7 +1,7 @@
 {
     "name": "lorem-picsum-photos-snippets",
-    "displayName": "Lorem Picsum photos snippets",
-    "description": "Visual studio code snippets extention for Lorem Picsum photos.",
+    "displayName": "Lorem Picsum Photos Snippets",
+    "description": "Visual Studio Code snippets extention for Lorem Picsum photos.",
     "version": "1.0.26",
     "publisher": "huang-an-sheng",
     "author": {
@@ -50,6 +50,10 @@
             {
                 "language": "javascript",
                 "path": "./snippets/javascript-snippets.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html-snippets.json"
             }
         ]
     }
